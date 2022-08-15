@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "my node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Raj0603/nodejs)"
+  },
+  "keywords": [
+    "code",
+    "with",
+    "raj"
+  ],
+  "author": "raj srivstav",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
